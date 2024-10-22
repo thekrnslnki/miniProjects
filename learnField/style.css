@@ -1,0 +1,18 @@
+.btnDiv {
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    border: 1px solid white;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 9, 9);
+    color: black;
+    border-radius: 50%;
+    border-color: aqua;
+}
